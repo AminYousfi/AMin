@@ -1,0 +1,10 @@
+.Home{
+    height: 35rem;
+}
+.fontName{
+    font-family: Whisper;
+}
+
+.btnDownload{
+    transition: all 0.2s;
+}
