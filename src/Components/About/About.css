@@ -1,0 +1,8 @@
+.aboutMeItem{
+    height: 100vh;
+}
+.unitAbout{
+    display: inline-block;
+    border-bottom: 6px double black;
+
+}
