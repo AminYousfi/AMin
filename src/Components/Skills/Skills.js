@@ -25,7 +25,7 @@ function skills(){
                 <dev className='flex justify-center align-middle'><FaHtml5 className='text-7xl' title='HTML5' /></dev>
                 <dev className='flex justify-center align-middle'><FaCss3 className='text-7xl' title='Css'/></dev>
                 <dev className='flex justify-center align-middle'><IoLogoJavascript className='text-7xl' title='JavaScript'/></dev>
-                <dev className='flex justify-center align-middle'><FaBootstrap className='text-7xl' title='Bottstrap'/></dev>
+                <dev className='flex justify-center align-middle'><FaBootstrap className='text-7xl' title='Bootstrap'/></dev>
                 <dev className='flex justify-center align-middle'><SiTailwindcss className='text-7xl' title='Tailwind'/></dev>
                 <dev className='flex justify-center align-middle'><SiTypescript className='text-7xl' title='TypeScript'/></dev>
                 <dev className='flex justify-center align-middle'><FaSass className='text-7xl' title='Sass'/></dev>
