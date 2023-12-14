@@ -1,0 +1,8 @@
+.skillsContainer{
+    width: 100vw;
+    height: 100vh;
+}
+
+.titleSkillsContent{
+    border-bottom:6px double black ;
+}
