@@ -9,7 +9,7 @@ function Home(){
                 <p className='text-6xl ms-12 mb-11'>My Name is <span className='text-9xl ms-5 fontName font-bold text-green-800'>amin</span></p>
                 <button className='btn text-green-600 outline outline-1 p-2 ms-12 hover:bg-green-600 hover:text-white btnDownload hover:outline-green-600 rounded-xl' href='#' download>Download Resume</button>
             </div>
-            <div className=' h-full w-1/2 flex justify-center align-middle'>
+            <div className=' h-full w-1/2 flex justify-center align-middle coffee '>
                 <xmlns version="1.0" encoding="UTF-8"/>
                 <svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/1999/xlink">
                 <title>coffee cup</title>

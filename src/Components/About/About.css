@@ -7,3 +7,25 @@
     border-bottom: 6px double black;
 
 }
+@media  (max-width:412px) {
+    .svgContainer{
+        display: none;
+    }
+    .textContainer{
+        width: 100%;
+    }
+    .textAbout{
+        font-size:24px ;
+    }
+}
+@media  (max-width:600px) {
+    .svgContainer{
+        display: none;
+    }
+    .textContainer{
+        width: 100%;
+    }
+    .textAbout{
+        font-size:24px ;
+    }
+}

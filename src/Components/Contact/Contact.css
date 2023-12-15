@@ -6,9 +6,13 @@
 .contactTitle{
     border-bottom: 6px double white;
 }
-/* .iconContact{
-    height: 100%;
+@media (max-width:412px){
+    .rocketIcon{
+        display: none;
+    }
 }
-.rocketIcon{
-    height: 100%;
-} */
+@media (max-width:600px){
+    .rocketIcon{
+        display: none;
+    }
+}

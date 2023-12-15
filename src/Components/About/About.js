@@ -11,21 +11,21 @@ function About (){
 
 
             <div className="container flex flex-row ">
-                <div className="textContainer w-1/2 ms-4 mt-24">
+                <div className="textContainer w-1/2 ms-4 mt-24 ">
 
-                <p className='text-2xl font-mono'>Hi ,  </p>
+                <p className='text-2xl font-mono textAbout'>Hi ,  </p>
                 <br />
-                <p className='text-2xl font-mono'>My name is Amin Yousefi </p>
+                <p className='text-2xl font-mono textAbout'>My name is Amin Yousefi </p>
                 <br />
-                <p className='text-2xl font-mono'>I'm from Iran , I was born in Qazvin , 21 March 2005 </p>
+                <p className='text-2xl font-mono textAbout'>I'm from Iran , I was born in Qazvin , 21 March 2005 </p>
                 <br />
-                <p className='text-2xl font-mono'>I'm a front-end developer and I really love my job </p>
+                <p className='text-2xl font-mono textAbout'>I'm a front-end developer and I really love my job </p>
                 <br />
-                <p className='text-2xl font-mono'> My field of study is electricity at Imam Khomeini International University Qazvin </p>
+                <p className='text-2xl font-mono textAbout'> My field of study is electricity at Imam Khomeini International University Qazvin </p>
 
                 </div>
 
-                <div className="svgContainer w-1/2 flex justify-center align-middle">
+                <div className="svgContainer w-1/2 flex justify-center align-middle ">
                     <xmlns version="1.0" encoding="UTF-8"/>
                     <svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/1999/xlink">
                     <title>computer</title>

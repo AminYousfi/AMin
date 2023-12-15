@@ -9,3 +9,14 @@
 .btnDownload{
     transition: all 0.2s;
 }
+
+@media  (max-width:412px ) {
+    .coffee{
+        display: none;
+    }
+}
+@media  (max-width:600px ) {
+    .coffee{
+        display: none;
+    }
+}
