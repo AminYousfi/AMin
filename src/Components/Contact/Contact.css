@@ -3,3 +3,12 @@
     height: 100vh;
     background-image: linear-gradient(to left , #0d003b , #07001f);
 }
+.contactTitle{
+    border-bottom: 6px double white;
+}
+/* .iconContact{
+    height: 100%;
+}
+.rocketIcon{
+    height: 100%;
+} */
