@@ -19,7 +19,7 @@ function About (){
                 <br />
                 <p className='text-2xl font-mono textAbout'>I'm from Iran , I was born in Qazvin , 21 March 2005 </p>
                 <br />
-                <p className='text-2xl font-mono textAbout'>I'm a front-end developer and I really love my job </p>
+                <p className='text-2xl font-mono textAbout'>I'm a junior front-end developer and I really love my job </p>
                 <br />
                 <p className='text-2xl font-mono textAbout'> My field of study is electricity at Imam Khomeini International University Qazvin </p>
 

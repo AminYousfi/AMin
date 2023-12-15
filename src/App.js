@@ -6,10 +6,16 @@ import About from './Components/About/About';
 import Skills from './Components/Skills/Skills';
 import Contact from './Components/Contact/Contact';
 
+
+
 function App() {
+
+
+
+
   return(
     <>
-    <Navigation />
+    <Navigation  />
     <Home />
     <About />
     <Skills />
