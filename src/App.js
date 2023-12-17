@@ -5,12 +5,18 @@ import Navigation from './Components/Navigation/Navigation';
 import About from './Components/About/About';
 import Skills from './Components/Skills/Skills';
 import Contact from './Components/Contact/Contact';
+import { useEffect } from 'react';
+
 
 
 
 
 
 function App() {
+  useEffect(()=>{
+    console.log(window.scrollY);
+
+})
 
 
 
