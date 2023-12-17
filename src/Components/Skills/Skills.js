@@ -13,9 +13,10 @@ import { FaGit } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 
 function skills(){
+
     return(
         <>
-        <div className='skillsContainer bg-white'>
+        <div className='skillsContainer bg-white' >
             <div className="titleSkills flex justify-center items-center ">
                 <h1 className='inline-block font-bold mt-7 text-3xl titleSkillsContent '>Skills</h1>
             </div>

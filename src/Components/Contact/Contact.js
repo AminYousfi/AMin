@@ -1,3 +1,4 @@
+
 import './Contact.css'
 import { FaPhoneAlt } from "react-icons/fa";
 import { FaTelegramPlane } from "react-icons/fa";
@@ -7,9 +8,10 @@ import { SiGmail } from "react-icons/si";
 
 
 function Contact (){
+
     return(
         <>
-        <div className="contactMeContainer bg-gray-800 w-full h-full">
+        <div className="contactMeContainer bg-gray-800 w-full h-full" >
             <div className='flex justify-center items-center'><h1 className='contactTitle text-white font-bold text-3xl mt-6'>Contact Me</h1></div>
             <div className="contact flex flex-row">
                 <div className="iconContact w-1/2 mt-5  flex flex-col ">

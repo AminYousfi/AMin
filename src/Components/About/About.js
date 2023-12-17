@@ -1,9 +1,16 @@
+
+
 import './About.css'
 
+
 function About (){
+
+
+
     return(
         <>
-        <div className='bg-slate-100  aboutMeItem pt-6'>
+
+        <div className='bg-slate-100  aboutMeItem pt-6'  >
             <div className="title flex justify-center ">
                 <h1 className='text-4xl font-bold unitAbout   '>About Me</h1>
             </div>
